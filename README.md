@@ -1,4 +1,7 @@
-### Hi there 👋
+# Kerren Ortlepp // [Entrostat](https://entrostat.com)
+
+Hi there! Welcome to my profile, take a look around 🔭
+
 
 <!--
 **Kerren-Entrostat/Kerren-Entrostat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
