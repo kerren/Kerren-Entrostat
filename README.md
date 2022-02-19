@@ -143,3 +143,25 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+
+## Blog Articles
+
+Here are a few blog articles I'm pretty proud of:
+
+- [Routing Multiple Domains using HAProxy (HTTP and HTTPS)](https://blog.entrostat.com/routing-multiple-domains-using-haproxy-http-and-https-ssl/)
+- [Packaging NestJS Modules for NPM Installs](https://blog.entrostat.com/packaging-nestjs-modules-for-npm-installs/)
+- [Setting up a Database Module in Nest.js](https://blog.entrostat.com/setting-up-a-database-module-in-nest-js/)
+- [OpenVPN vs Wireguard - Network Performance Tests](https://blog.entrostat.com/openvpn-vs-wireguard-network-performance-tests/)
+
+
+## Open Source Repos
+
+Here are a couple of Open Source projects I've created to help the development community.
+
+- [typeorm-test-transactions](https://github.com/entrostat/typeorm-test-transactions)
+- [entro-ci](https://github.com/entrostat/entro-ci)
+- [promax](https://github.com/entrostat/promax)
+- [gcloud-utils](https://github.com/entrostat/gcloud-utils)
+- [terminal-csv-splitter](https://github.com/entrostat/terminal-csv-splitter)
+- ... more to come!
