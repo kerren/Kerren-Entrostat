@@ -161,8 +161,10 @@ Here are a couple of Open Source projects I've created to help the development c
 
 - [typeorm-test-transactions](https://github.com/entrostat/typeorm-test-transactions)
 - [entro-ci](https://github.com/entrostat/entro-ci)
+- [entro-version](https://github.com/entrostat/entro-version)
 - [promax](https://github.com/entrostat/promax)
 - [gcloud-utils](https://github.com/entrostat/gcloud-utils)
 - [terminal-csv-splitter](https://github.com/entrostat/terminal-csv-splitter)
 - [get-nestjs-endpoint](https://github.com/entrostat/get-nestjs-endpoint)
+- [git-secret-action](https://github.com/marketplace/actions/git-secret-reveal-action)
 - ... more to come!
