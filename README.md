@@ -160,6 +160,7 @@ Here are a few blog articles I'm pretty proud of:
 Here are a couple of Open Source projects I've created to help the development community.
 
 - [typeorm-test-transactions](https://github.com/entrostat/typeorm-test-transactions)
+- [certme](https://github.com/entrostat/certme)
 - [entro-ci](https://github.com/entrostat/entro-ci)
 - [entro-version](https://github.com/entrostat/entro-version)
 - [promax](https://github.com/entrostat/promax)
