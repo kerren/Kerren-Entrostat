@@ -152,9 +152,15 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 Here are a few blog articles I'm pretty proud of:
 
 - [Routing Multiple Domains using HAProxy (HTTP and HTTPS)](https://blog.entrostat.com/routing-multiple-domains-using-haproxy-http-and-https-ssl/)
+- [Routing through a Floating IP on Hetzner Cloud](https://blog.entrostat.com/routing-through-floating-ip-hetzner-cloud/) 
 - [Packaging NestJS Modules for NPM Installs](https://blog.entrostat.com/packaging-nestjs-modules-for-npm-installs/)
 - [Setting up a Database Module in Nest.js](https://blog.entrostat.com/setting-up-a-database-module-in-nest-js/)
 - [OpenVPN vs Wireguard - Network Performance Tests](https://blog.entrostat.com/openvpn-vs-wireguard-network-performance-tests/)
+- [Hetzner DE Firewall and External DNS](https://blog.entrostat.com/hetzner-de-firewall-and-external-dns/)
+- [Install byobu on any Linux Distro](https://blog.entrostat.com/install-byobu-on-any-linux-distro/)
+- [Cloudflare & Subdomains](https://blog.entrostat.com/cloudflare-subdomain-error/)
+- [Installing NVIDIA Drivers on a Linux (Fedora) Laptop with Secure Boot Enabled](https://blog.entrostat.com/installing-nvidia-drivers-on-a-linux-laptop-with-secure-boot-enabled/)
+
 
 
 ## Open Source Repos
@@ -170,4 +176,8 @@ Here are a couple of Open Source projects I've created to help the development c
 - [terminal-csv-splitter](https://github.com/entrostat/terminal-csv-splitter)
 - [get-nestjs-endpoint](https://github.com/entrostat/get-nestjs-endpoint)
 - [git-secret-action](https://github.com/marketplace/actions/git-secret-reveal-action)
+- [config-or-ask](https://github.com/entrostat/config-or-ask)
+- [git-auto-merger](https://github.com/entrostat/git-auto-merger)
+- [git-auto-merger-action](https://github.com/entrostat/git-auto-merger-action)
+- [env2kube](https://github.com/entrostat/env2kube)
 - ... more to come!
