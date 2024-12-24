@@ -9,6 +9,7 @@ Hi there! Welcome to my profile, take a look around 🔭
 - Electrical Engineer with my Masters in Power Electronics
 - Open source contributor
 - South African
+- I have a blog at [kerrenortlepp.com](https://kerrenortlepp.com)
 
 
 ## My Stats
@@ -90,6 +91,8 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Homebrew](https://img.shields.io/badge/homebrew-%232E2A24?style=for-the-badge&logo=homebrew)
+
 
 ### Databases
 
@@ -111,23 +114,25 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 
 
 ### Other Tools
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm)
+![Goland](https://img.shields.io/badge/goland-%232F54FF?style=for-the-badge&logo=goland)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=white)
+![Datagrip](https://img.shields.io/badge/datagrip-%237745FF?style=for-the-badge&logo=datagrip)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=green)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=crimson)
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
 ### Operating Systems I've Installed (in my life)
@@ -160,6 +165,7 @@ Here are a few blog articles I'm pretty proud of:
 - [Install byobu on any Linux Distro](https://blog.entrostat.com/install-byobu-on-any-linux-distro/)
 - [Cloudflare & Subdomains](https://blog.entrostat.com/cloudflare-subdomain-error/)
 - [Installing NVIDIA Drivers on a Linux (Fedora) Laptop with Secure Boot Enabled](https://blog.entrostat.com/installing-nvidia-drivers-on-a-linux-laptop-with-secure-boot-enabled/)
+- [Running 1Password on Zen Browser](https://kerrenortlepp.com/running-1password-on-zen-browser/)
 
 
 
@@ -167,6 +173,8 @@ Here are a few blog articles I'm pretty proud of:
 
 Here are a couple of Open Source projects I've created to help the development community.
 
+- [brrelease](https://github.com/kerren/brrelease)
+- [dockem](https://github.com/kerren/dockem)
 - [typeorm-test-transactions](https://github.com/entrostat/typeorm-test-transactions)
 - [certme](https://github.com/entrostat/certme)
 - [entro-ci](https://github.com/entrostat/entro-ci)
